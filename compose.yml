@@ -18,5 +18,5 @@ services:
     restart: always
     stop_grace_period: 2m
     environment:
-      RAM_SIZE: "16G"
-      CPU_CORES: "8"
+      RAM_SIZE: "14G"
+      CPU_CORES: "4"
